@@ -1,0 +1,57 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.caixa1{
+    background-color: #eb6440;
+}
+.login{
+    color: #ffff;
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+    gap: 50px;
+}
+.regis{
+    color: #ffff;
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+}
+.img{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img1{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img2{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img3{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img4{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img5{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
